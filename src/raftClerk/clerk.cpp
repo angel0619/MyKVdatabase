@@ -1,6 +1,4 @@
-//
-// Created by swx on 23-6-4.
-//
+
 #include "clerk.h"
 
 #include "raftServerRpcUtil.h"

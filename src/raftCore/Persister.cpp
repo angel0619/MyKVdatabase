@@ -1,6 +1,4 @@
-//
-// Created by swx on 23-5-30.
-//
+
 #include "Persister.h"
 #include "util.h"
 

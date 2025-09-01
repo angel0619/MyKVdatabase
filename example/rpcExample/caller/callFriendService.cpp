@@ -1,6 +1,4 @@
-//
-// Created by swx on 23-12-21.
-//
+
 #include <iostream>
 
 // #include "mprpcapplication.h"
